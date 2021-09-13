@@ -1,0 +1,23 @@
+{
+  "name": "firstask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherot1k/Firstask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherot1k/Firstask/issues"
+  },
+  "homepage": "https://github.com/cherot1k/Firstask#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
